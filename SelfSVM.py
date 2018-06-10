@@ -1,6 +1,6 @@
 from sklearn import svm
-import pandas as pd
 from sklearn.preprocessing import LabelEncoder
+import pandas as pd
 import numpy as np
 
 def save_to_csv(name, value, column):
